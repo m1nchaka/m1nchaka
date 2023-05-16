@@ -15,7 +15,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on github</h3>
 <p align="left">
 </p>
 
