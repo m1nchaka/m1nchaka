@@ -1,7 +1,7 @@
 <div align="center">
 
 #  💫 About Me:
-🔭 I’m currently working on Graduation Project using Firebase
+🔭 I code just for fun
 
 
 
