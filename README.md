@@ -26,7 +26,7 @@
 <h4 align="center">Click on the icons to learn more about it</h4>
 
 
-
+---
 <h3 align="left">Connect with me on github</h>
 <p align="left">
 </p>
