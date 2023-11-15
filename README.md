@@ -5,13 +5,13 @@
 
 
 
-# Stats:
+<!-- # Stats: -->
 
 <!--![](https://github-readme-stats.vercel.app/api?username=m1nchaka&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=m1nchaka&theme=radical&hide_border=false)<br/> -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m1nchaka&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 ---
@@ -27,6 +27,9 @@
 
 
 ---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m1nchaka&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <h3 align="left">Connect with me on github</h>
 <p align="left">
 </p>
