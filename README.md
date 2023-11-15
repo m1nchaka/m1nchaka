@@ -5,7 +5,7 @@
 
 
 
-# 📊 GitHub Stats:
+# Stats:
 
 <!--![](https://github-readme-stats.vercel.app/api?username=m1nchaka&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 
@@ -32,4 +32,4 @@
 </p>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=m1nchaka&icon=7&color=6)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=m1nchaka&icon=7&color=6)](https://visitcount.itsvg.in) -->
