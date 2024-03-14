@@ -30,7 +30,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m1nchaka&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Connect with me on github</h>
+<!-- <h3 align="left">Connect with me on github</h> -->
 <p align="left">
 </p>
 </div>
